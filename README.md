@@ -1,3 +1,4 @@
 # ineuron-projects-and-assignments
-#basic python assignments
-#assignment - 01
+## basic python assignments
+
+### assignment - 01
